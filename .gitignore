@@ -1,0 +1,13 @@
+.venv/
+.git-local/
+__pycache__/
+*.py[cod]
+
+recordings/
+*.avi
+*.mp4
+*.mov
+
+.DS_Store
+.idea/
+.vscode/
